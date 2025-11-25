@@ -3,7 +3,7 @@
 
 <!-- Owl / Side illustration -->
 <div>
-  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px)">
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Kasun!

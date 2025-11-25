@@ -1,9 +1,9 @@
 <!-- Banner -->
 ![Kasun Banner](https://raw.githubusercontent.com/KasunJanith/KasunJanith/main/banner.png)
 
-<!-- Owl / Side illustration -->
+<!-- Right Side Illustration (Computer Science) -->
 <div>
-  <img align="right" width="38%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="250px)">
+  <img align="right" width="38%" src="https://cdn3d.iconscout.com/3d/premium/thumb/programming-5020904-4207278.png">
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Kasun!
@@ -11,14 +11,14 @@
 <br/>
 
 <p align="left">
-I am a passionate Computer Science undergraduate who loves building intelligent systems, crafting full-stack applications, and exploring AI, machine learning, and DevOps practices. I enjoy turning complex ideas into real-world products using modern frameworks like React, Spring Boot, Next.js, TensorFlow.js and Python.
+Computer Science undergraduate passionate about building intelligent systems, scalable web applications, and cloud-ready software. I love transforming ideas into real products using React, Spring Boot, Next.js, Python, TensorFlow.js and modern DevOps tools.
 </p>
 
-- ✨ Always learning & experimenting  
-- 🤖 Currently working on an **MT5 Neural Machine Translation Model** (Singlish → English)  
-- 💻 Built **AI-powered salon system**, **real-time auction platform**, **T-Shirt printing e-commerce**, and more  
-- 🚀 Passionate about clean architecture, scalable systems & cloud-ready apps  
-- 🌎 Visit my **Portfolio**: https://kasun-thilakarathna.dev  
+- ✨ Always exploring new technologies  
+- 🤖 Currently researching **MT5 Neural Machine Translation (Singlish → English)**  
+- 💻 Built AI/ML-driven salon system, live auction platform, weather app & more  
+- 🚀 Interested in Software Engineering, Machine Learning & DevOps  
+- 🌐 Portfolio: **https://kasun-thilakarathna.dev**
 
 <br/>
 
@@ -34,8 +34,29 @@ I am a passionate Computer Science undergraduate who loves building intelligent 
 <!-- Skills -->
 <h2 align="center">⚙️ Tech Stack & Tools</h2>
 
+### 🧑‍💻 Programming Languages
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nextjs,spring,flutter,tailwind,tensorflow,opencv,postgres,mysql,mongodb,prisma,docker,git,github,linux,vscode,postman&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,php&perline=10" />
+</p>
+
+### 🏗️ Frameworks & Libraries
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,spring,flutter,bootstrap,tailwind,flask,tensorflow,opencv&perline=10" />
+</p>
+
+### 🗄️ Databases & ORMs
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=10" />
+</p>
+
+### 🛠️ Development Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,linux,aws&perline=10" />
 </p>
 
 <br/>
@@ -125,4 +146,3 @@ I am a passionate Computer Science undergraduate who loves building intelligent 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer" />
 </p>
-

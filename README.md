@@ -1,22 +1,20 @@
 <!-- Banner -->
-
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1000&pause=500&color=3d85c6&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+There+!;+I'm+Kasun+Thilakarathna+;Welcome+To+My+GitHub+Profile" alt="Typing SVG" /></a>
+</h1>
 <!-- Right Side Illustration (Computer Science) -->
-<br/>
+
+
+<h2>Full-Stack Developer | AI/ML Enthusiast | DevOps Learner</h2>
 <div>
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </div>
-
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Kasun Thilakarathna!
-*Full-Stack Developer | AI/ML Enthusiast | DevOps Learner*
-<br/>
-
 <p align="left">
 Computer Science undergraduate passionate about building intelligent systems, scalable web applications, and cloud-ready software. I love transforming ideas into real products using React, Spring Boot, Next.js, Python, TensorFlow.js and modern DevOps tools.
 </p>
 
 - ✨ Always exploring new technologies  
-- 🤖 Currently researching **MT5 Neural Machine Translation (Singlish → English)**  
-- 💻 Built AI/ML-driven salon system, live auction platform, weather app & more  
+- 🤖 Currently researching **MT5 Neural Machine Translation (Singlish → English)**    
 - 🚀 Interested in Software Engineering, Machine Learning & DevOps  
 - 🌐 Portfolio: **https://kasun-thilakarathna.dev**
 
@@ -148,26 +146,35 @@ Computer Science undergraduate passionate about building intelligent systems, sc
 
 ---
 
-<!-- Contact -->
+<!-- Modern Social Icons -->
 <h2 align="center">🤝 Connect With Me</h2>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/kasun-thilakarathna">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
   
-<a href="mailto:kasunbandara1999@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kasun-thilakarathalna" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" width="45" height="45" style="margin: 10px;" />
+  </a>
 
-<a href="https://github.com/KasunJanith">
-<img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <!-- Gmail -->
+  <a href="mailto:kasunbandara1999@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+         alt="Email" width="45" height="45" style="margin: 10px; filter: invert(58%) sepia(89%) saturate(6000%) hue-rotate(2deg) brightness(96%) contrast(94%);" />
+  </a>
 
-<a href="https://wa.me/94772600914">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/94772600914" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" 
+         alt="WhatsApp" width="45" height="45" style="margin: 10px; filter: invert(62%) sepia(92%) saturate(600%) hue-rotate(85deg) brightness(95%) contrast(92%);" />
+  </a>
+
+
 </div>
+
+<br/>
+
+
 
 <br/>
 

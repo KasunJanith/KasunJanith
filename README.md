@@ -1,12 +1,12 @@
 <!-- Banner -->
-![Kasun Banner](https://raw.githubusercontent.com/KasunJanith/KasunJanith/main/banner.png)
 
 <!-- Right Side Illustration (Computer Science) -->
+<br/>
 <div>
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 </div>
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Kasun!
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Kasun Thilakarathna!
 *Full-Stack Developer | AI/ML Enthusiast | DevOps Learner*
 <br/>
 
@@ -36,30 +36,50 @@ Computer Science undergraduate passionate about building intelligent systems, sc
 
 ### 🧑‍💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,php&perline=10" />
+  <img title="Java" src="https://skillicons.dev/icons?i=java" />
+  <img title="Python" src="https://skillicons.dev/icons?i=python" />
+  <img title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+  <img title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+  <img title="C Programming" src="https://skillicons.dev/icons?i=c" />
+  <img title="PHP" src="https://skillicons.dev/icons?i=php" />
 </p>
 
 ### 🏗️ Frameworks & Libraries
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,spring,flutter,bootstrap,tailwind,flask,tensorflow,opencv&perline=10" />
+  <img title="React.js" src="https://skillicons.dev/icons?i=react" />
+  <img title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />
+  <img title="Spring Boot" src="https://skillicons.dev/icons?i=spring" />
+  <img title="Flutter" src="https://skillicons.dev/icons?i=flutter" />
+  <img title="Bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+  <img title="Tailwind CSS" src="https://skillicons.dev/icons?i=tailwind" />
+  <img title="Flask" src="https://skillicons.dev/icons?i=flask" />
+  <img title="TensorFlow" src="https://skillicons.dev/icons?i=tensorflow" />
+  <img title="OpenCV" src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
 ### 🗄️ Databases & ORMs
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=10" />
+  <img title="MySQL" src="https://skillicons.dev/icons?i=mysql" />
+  <img title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />
+  <img title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />
+  <img title="Prisma ORM" src="https://skillicons.dev/icons?i=prisma" />
 </p>
 
 ### 🛠️ Development Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10" />
+  <img title="Git" src="https://skillicons.dev/icons?i=git" />
+  <img title="GitHub" src="https://skillicons.dev/icons?i=github" />
+  <img title="VS Code" src="https://skillicons.dev/icons?i=vscode" />
+  <img title="Postman" src="https://skillicons.dev/icons?i=postman" />
+  <img title="Figma" src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,aws&perline=10" />
+  <img title="Docker" src="https://skillicons.dev/icons?i=docker" />
+  <img title="Linux" src="https://skillicons.dev/icons?i=linux" />
+  <img title="AWS" src="https://skillicons.dev/icons?i=aws" />
 </p>
-
-<br/>
 
 ---
 
@@ -71,34 +91,43 @@ Computer Science undergraduate passionate about building intelligent systems, sc
     <td width="50%">
       <h3 align="center"><strong>GitHub Overview</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=KasunJanith&show_icons=true&theme=nightowl&count_private=true" />
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KasunJanith&show_icons=true&include_all_commits=true&count_private=true&theme=nightowl&hide_border=false"
+        />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
+      <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
-        <img src="https://streak-stats.demolab.com?user=KasunJanith&theme=nightowl" />
+        <img 
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KasunJanith&layout=compact&theme=nightowl&hide_border=false"
+        />
       </p>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Top Languages</strong></h3>
+  <td width="50%">
+      <h3 align="center"><strong>GitHub Achievements</strong></h3>
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasunJanith&theme=nightowl&layout=compact" />
+        <img 
+          src="https://github-profile-trophy.vercel.app/?username=KasunJanith&theme=dracula&margin-w=15&margin-h=15&no-bg=true&row=1"
+        />
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Top Contributions</strong></h3>
       <p align="center">
-        <img src="https://github-contributor-stats.vercel.app/api?username=KasunJanith&limit=3&theme=nightowl&combine_all_yearly_contributions=true" />
+        <img 
+          src="https://github-contributor-stats.vercel.app/api?username=KasunJanith&limit=3&theme=nightowl&combine_all_yearly_contributions=true&hide_border=false"
+        />
       </p>
     </td>
   </tr>
 </table>
 
 <br/>
+
 
 ---
 

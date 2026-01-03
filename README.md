@@ -152,7 +152,7 @@ Computer Science undergraduate passionate about building intelligent systems, sc
 <div align="center">
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/kasun-thilakarathalna" target="_blank">
+  <a href="https://www.linkedin.com/in/kasun-thilakarathna" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" width="45" height="45" style="margin: 10px;" />
   </a>

@@ -14,7 +14,7 @@ Computer Science undergraduate passionate about building intelligent systems, sc
 </p>
 
 - ✨ Always exploring new technologies  
-- 🤖 Currently researching **MT5 Neural Machine Translation (Singlish → English)**    
+- 🤖 Currently researching **Transformer Based Neural Machine Translation (Singlish → English)**    
 - 🚀 Interested in Software Engineering, Machine Learning & DevOps  
 - 🌐 Portfolio: **https://kasun-thilakarathna.dev**
 
